@@ -58,5 +58,5 @@ naming_system = {
    sub_category: nil
  }
 
-return naming_system{}
+return naming_system[:label]
 end
